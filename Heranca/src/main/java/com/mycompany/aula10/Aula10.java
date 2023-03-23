@@ -36,7 +36,7 @@ public class Aula10 {
         System.out.println(p3.toString());
         System.out.println(p4.toString());
         
-        
+        // Utilizando os métodos
         System.out.println("-----------------");
         p2.setMatricula(01212);
         p2.setCurso("tsi");
